@@ -1,0 +1,53 @@
+{
+    "name": "ahmed-solicode-theme",
+    "displayName": "Ahmed solicode theme",
+    "description": "I am Ahmed Aoulad Amar from tanger city and  i con't find  a theme for my vs code so I disaid to creat my own theme ",
+    "publisher":"solicoder",
+    "author": { 
+        "name": "Ahmed aoulad amar"
+        },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+     "galleryBanner": {
+        "color": "#2596be",
+        "theme": "dark"
+    },
+    "icon": "img/rsz_21619124258285.png",
+    "categories": [
+        "Themes"
+    ],
+   "keywords": [
+       "ahmed",
+       "solicode",
+       "solicoders",
+       "solicode devlopers",
+       "solicode progrmmeras",
+       "ahmed",
+       "ahmed aoulad amar",
+       "ahmed theme",
+       "ahmed aoulad amar theme",
+       "dev",
+       "theme",
+       "dark theme",
+       "beautful theme",
+       " js ",
+       "javascrept",
+       "html",
+       "css",
+       "cass",
+       "jqoury",
+       "bootstraps"
+    ],
+    
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ahmed-solicode theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ahmed-solicode theme-color-theme.json"
+            }
+        ]
+    }	
+}
